@@ -12,7 +12,6 @@ The notebook performs the following steps:
 The results of the GAN training, including the generated images at different epochs, are visualized and printed in the notebook.
 
 ## Example Output
-
 ![GAN](https://github.com/maryamjbr/GAN/assets/135154626/f1f33087-343d-4337-abe0-af14aca2fd66)
 
 
