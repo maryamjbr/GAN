@@ -8,12 +8,6 @@ The notebook performs the following steps:
 - Model Definition: Defines the Generator and Discriminator classes using convolutional and transposed convolutional layers.
 - Training: Trains the GAN on the MNIST training data for a specified number of epochs, minimizing the Binary Cross-Entropy (BCE) loss.
 - Visualization: Visualizes the generated images during and after training.
-- 
-- ## Contents
-
-- `MNIST_GAN.py`: Python script containing the code for the project.
-- `data/`: Directory where the MNIST dataset will be downloaded.
-- `results/`: Directory to save generated images and training metrics.
 
 ## Requirements
 
